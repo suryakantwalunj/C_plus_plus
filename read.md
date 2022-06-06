@@ -6,3 +6,4 @@
 ### Smart Pointers
 
 ### Exceptions and Error Handling
+* https://isocpp.org/wiki/faq/exceptions

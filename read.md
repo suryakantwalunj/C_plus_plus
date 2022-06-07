@@ -7,3 +7,4 @@
 
 ### Exceptions and Error Handling
 * https://isocpp.org/wiki/faq/exceptions
+* https://www.drdobbs.com/when-and-how-to-use-exceptions/184401836

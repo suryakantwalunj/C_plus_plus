@@ -2,4 +2,5 @@
 > Using declaration should not come inside header file since header files get included in everywhere.
 
 > ### Exception and Error Handling
-> 1. Exception is an error handling mechanism.
+> - Exception is an error handling mechanism.
+> - C++ exceptions are designed to support error handling.

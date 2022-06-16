@@ -9,5 +9,8 @@
 * https://isocpp.org/wiki/faq/exceptions
 * https://www.drdobbs.com/when-and-how-to-use-exceptions/184401836
 
-### C++11 topics
+## C++11 topics
 * https://www.freecodecamp.org/news/some-awesome-modern-c-features-that-every-developer-should-know-5e3bf6f79a3c/
+
+### rvalue
+* https://www.bogotobogo.com/cplusplus/C11/4_C11_Rvalue_Lvalue.php

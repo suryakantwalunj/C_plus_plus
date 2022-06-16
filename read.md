@@ -16,6 +16,9 @@ _"If you're an experienced C++ programmer and are anything like me, you initiall
 * https://www.freecodecamp.org/news/some-awesome-modern-c-features-that-every-developer-should-know-5e3bf6f79a3c/
 
 ### rvalue
+_"C++11's most pervasive feature is probably move semantics, and the foundation of move semantics is distinguishing expressions that are rvalue from those that are lvalues. That's because rvalues indicate objects eligible for move operations, while lvalues generally don't. In concept (though not always in practice), rvalue correspond to temporary objects returned from functions, while lvalues correspond to objects you can refer to, either by name or by following a pointer or lvalue reference."
+"A useful heuristic to determine whether an expression is an lvalue is to ask if you can take its address. If you can, it typically is. If you can't, it's usually an rvalue." -Effective Modern C++_
+
 * https://www.bogotobogo.com/cplusplus/C11/4_C11_Rvalue_Lvalue.php
 
 ### typedef vs using

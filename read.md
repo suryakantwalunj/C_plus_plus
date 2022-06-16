@@ -20,6 +20,7 @@ _"C++11's most pervasive feature is probably move semantics, and the foundation 
 "A useful heuristic to determine whether an expression is an lvalue is to ask if you can take its address. If you can, it typically is. If you can't, it's usually an rvalue." -Effective Modern C++_
 
 * https://www.bogotobogo.com/cplusplus/C11/4_C11_Rvalue_Lvalue.php
+* https://docs.microsoft.com/en-us/cpp/cpp/lvalues-and-rvalues-visual-cpp?view=msvc-170
 
 ### typedef vs using
 * https://www.educba.com/c-plus-plus-using-vs-typedef/

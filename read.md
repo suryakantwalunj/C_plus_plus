@@ -14,3 +14,6 @@
 
 ### rvalue
 * https://www.bogotobogo.com/cplusplus/C11/4_C11_Rvalue_Lvalue.php
+
+### typedef vs using
+* https://www.educba.com/c-plus-plus-using-vs-typedef/

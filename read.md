@@ -17,3 +17,4 @@
 
 ### typedef vs using
 * https://www.educba.com/c-plus-plus-using-vs-typedef/
+* https://www.nextptr.com/tutorial/ta1193988140/how-cplusplus-using-or-aliasdeclaration-is-better-than-typedef

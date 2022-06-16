@@ -21,6 +21,7 @@ _"C++11's most pervasive feature is probably move semantics, and the foundation 
 
 * https://www.bogotobogo.com/cplusplus/C11/4_C11_Rvalue_Lvalue.php
 * https://docs.microsoft.com/en-us/cpp/cpp/lvalues-and-rvalues-visual-cpp?view=msvc-170
+* https://www.internalpointers.com/post/understanding-meaning-lvalues-and-rvalues-c
 
 ### typedef vs using
 * https://www.educba.com/c-plus-plus-using-vs-typedef/

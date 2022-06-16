@@ -10,6 +10,9 @@
 * https://www.drdobbs.com/when-and-how-to-use-exceptions/184401836
 
 ## C++11 topics
+
+_"If you're an experienced C++ programmer and are anything like me, you initially approached C++11 thinking, "Yes, yes, I get it. It's C++, only more so." But as you learned more, you were surprised by the scope of the changes. **auto** declarations, range-based **for** loops, **lambda** expressions, and **rvalue references** change the face of C++, to say nothing of the new **concurrency** features. And then there are the idiomatic changes. **0** and **typedefs** are out, **nullptr** and **alias** declarations are in. **Enums** should now be scoped. **Smart pointers** are now preferable to built-in ones. Moving objects is normally better than copying them."_ - Effective Modern C++ by **Scott Meyers**
+
 * https://www.freecodecamp.org/news/some-awesome-modern-c-features-that-every-developer-should-know-5e3bf6f79a3c/
 
 ### rvalue

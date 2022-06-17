@@ -30,3 +30,5 @@ _"C++11's most pervasive feature is probably move semantics, and the foundation 
 
 ### forwarding references
 * https://quuxplusone.github.io/blog/2022/02/02/look-what-they-need/
+* https://blog.petrzemek.net/2016/09/17/universal-vs-forwarding-references-in-cpp/
+* https://quuxplusone.github.io/blog/2022/02/02/look-what-they-need/

@@ -4,3 +4,7 @@
 > ### Exception and Error Handling
 > - Exception is an error handling mechanism.
 > - C++ exceptions are designed to support error handling.
+
+
+> ### Forward references
+> Forward references enable perfect forwarding which means the ability to pass arguments by maintaining their value category.

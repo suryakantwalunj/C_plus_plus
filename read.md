@@ -27,3 +27,6 @@ _"C++11's most pervasive feature is probably move semantics, and the foundation 
 ### typedef vs using
 * https://www.educba.com/c-plus-plus-using-vs-typedef/
 * https://www.nextptr.com/tutorial/ta1193988140/how-cplusplus-using-or-aliasdeclaration-is-better-than-typedef
+
+### forwarding references
+* https://quuxplusone.github.io/blog/2022/02/02/look-what-they-need/

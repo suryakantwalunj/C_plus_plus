@@ -8,3 +8,8 @@
 
 > ### Forward references
 > Forward references enable perfect forwarding which means the ability to pass arguments by maintaining their value category.
+> Forwarding references allow a reference to bind to either an lvalue or rvalue depending on the type. Forwarding references follow the rules of reference collapsing:
+> - T& & becomes T&
+> - T& && becomes T&
+> - T&& & becomes T&
+> - T&& && becomes T&&

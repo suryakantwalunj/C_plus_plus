@@ -33,7 +33,7 @@ _"C++11's most pervasive feature is probably move semantics, and the foundation 
 * https://blog.petrzemek.net/2016/09/17/universal-vs-forwarding-references-in-cpp/
 * https://quuxplusone.github.io/blog/2022/02/02/look-what-they-need/
 
- ### decltype
+ ### decltype and auto keyword
 * _"**decltype** is an **operator** which returns the declared **type** of an expression passed to it. cv-qualifiers and references are maintained if they are part of the expression"_
 * _**Type Inference** refers to automatic deduction of the data type of an expression in a programming language_
  

@@ -36,6 +36,7 @@ _"C++11's most pervasive feature is probably move semantics, and the foundation 
  ### decltype and auto - Type Inference in C++
 * _"**decltype** is an **operator** which returns the declared **type** of an expression passed to it. cv-qualifiers and references are maintained if they are part of the expression"_
 * _**Type Inference** refers to automatic deduction of the data type of an expression in a programming language_
+* _‘**auto**’ lets you declare a variable with a particular type whereas **decltype** lets you extract the type from the variable so **decltype** is sort of an **operator** that evaluates the type of passed expression_
 
 #### decltype vs typeid
 
